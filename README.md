@@ -1,6 +1,6 @@
 # pseudo4D-analysis-guide
 
-The published notebooks are a guide for users analyzing pseudo-4D data. The goal is to share the code and methods used for this research. We hope this will provide a useful starting point for scientists planning to do thier own studies. 
+The published notebooks are a guide for users analyzing pseudo-4D data. The goal is to share the code and methods used for this research. We hope this will provide a useful starting point for scientists planning to do their own studies. 
 
 Chao, P., Lindemann, G. R., Hunter, A. H., & Shahani, A. J. (2022). Pseudo-4D view of the growth and form of locked eutectic colonies. *Acta Materialia*, 118335. https://doi.org/10.48550/arXiv.2206.11667
 
