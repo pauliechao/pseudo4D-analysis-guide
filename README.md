@@ -21,6 +21,8 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
+This project was completed during my time at the University of Michigan as a PhD student in the [Shahani Group](https://github.com/shahaniRG). 
+
 Thanks for these awesome resources that were used during the development of this repo
 
 - <https://thoughtbot.com/blog/how-to-write-a-great-readme>
