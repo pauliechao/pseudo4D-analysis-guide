@@ -8,7 +8,7 @@ Chao, P., Lindemann, G. R., Hunter, A. H., & Shahani, A. J. (2022). Pseudo-4D vi
 
 ## About
 
-While the analysis was done in Matlab, [Jupyter notebooks](https://jupyter.org/) are an excellent format to share equations, computational output, visualizations, and other multimedia resources, along with explanatory text in a single document. Furthermore, it is very convenient to share and read the notebook in Github. As such, all codes are set up in [Matlab-Jupyter](https://am111.readthedocs.io/en/latest/jmatlab_install.html) in an effort to create a clear and understandable workflow.
+While the analysis was done in Matlab, [Jupyter notebooks](https://jupyter.org/) are an excellent format to share equations, computational output, visualizations, and other multimedia resources, along with explanatory text in a single document. Furthermore, it is very convenient to share and view the notebook in Github. As such, all codes are set up in [Matlab-Jupyter](https://am111.readthedocs.io/en/latest/jmatlab_install.html) in an effort to create a clear and understandable workflow.
 
 The data can be accessed online through XX
 
@@ -27,7 +27,7 @@ See [LICENSE](LICENSE) for more information.
 
 This project was completed during my time at the University of Michigan as a PhD student in the [Shahani Group](https://github.com/shahaniRG). 
 
-AJS and PC gratefully acknowledge financial support from the National Science Foundation (NSF) CAREER program under Award No. 1847855. GRL acknowledges support from the Air Force Office of Scientific Research (AFOSR) under Award No. FA9550-21-1-0260. We thank Dr. Caleb Reese, Aaron Gladstein, Dr. Francesco De Carlo, and Pavel Shevshenko for assisting in the synchrotron-based experiment. We also thank Drs. Silvère Akamatsu and Sabine Bottin-Rousseau for fruitful discussions. This research used resources of the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. We acknowledge the University of Michigan College of Engineering for financial support and the Michigan Center for Materials Characterization for use of the instruments and Bobby Kerns, Dr. Nancy Senabulya Muyanja, Dr. Tao Ma, and Dr. Haiping Sun for their assistance.
+>AJS and PC gratefully acknowledge financial support from the National Science Foundation (NSF) CAREER program under Award No. 1847855. GRL acknowledges support from the Air Force Office of Scientific Research (AFOSR) under Award No. FA9550-21-1-0260. We thank Dr. Caleb Reese, Aaron Gladstein, Dr. Francesco De Carlo, and Pavel Shevshenko for assisting in the synchrotron-based experiment. We also thank Drs. Silvère Akamatsu and Sabine Bottin-Rousseau for fruitful discussions. This research used resources of the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. We acknowledge the University of Michigan College of Engineering for financial support and the Michigan Center for Materials Characterization for use of the instruments and Bobby Kerns, Dr. Nancy Senabulya Muyanja, Dr. Tao Ma, and Dr. Haiping Sun for their assistance.
 
 Thanks for these awesome resources that were used during the development of this repo
 
