@@ -1,8 +1,7 @@
 # pseudo4D-analysis-guide
 
-The published notebooks are a guide for users analyzing pseudo-4D data. The goal is to provide a starting point for scientists planning to do thier own studies. 
+The published notebooks are a guide for users analyzing pseudo-4D data. The goal is to share the code and methods used for this research. We hope this will provide a useful starting point for scientists planning to do thier own studies. 
 
-Please reference the scientific publication in addition to this repository if you found this work useful.  
 Chao, P., Lindemann, G. R., Hunter, A. H., & Shahani, A. J. (2022). Pseudo-4D view of the growth and form of locked eutectic colonies. *Acta Materialia*, 118335. https://doi.org/10.48550/arXiv.2206.11667
 
 >We investigate solidification of an Al-Cu alloy as a model system to understand the emergence of patterns (such as lamellar, rod and maze-like) within eutectic colonies. To uncover the morphological transitions in situ and in 3D, we introduce here a new synchrotron-based procedure termed pseudo-4D X-ray imaging. Our method simultaneously maximizes the temporal (200 ms) and spatial resolution (0.69 um<sup>2</sup>/pixel) over that of traditional imaging approaches. The wealth of information obtained from this procedure enables us to visualize the development of a crystallographically ‘locked’ eutectic microstructure in the presence of thermosolutal convection. This data provides direct insight into the mechanism of the lamella-to-rod transition as the eutectic accommodates fluctuations in interfacial composition and growth velocity. We offer evidence to show that this transition is diffusive. It is brought about by impurity-driven forces acting on the solid-solid-liquid trijunction that must overcome the stiffness of the solid-solid interfaces. Our pseudo-4D imaging strategy holds broad appeal to the solidification science community, as it can overcome the space-time trade-off in conventional in situ X-ray microtomography.
@@ -19,7 +18,8 @@ Reach out to the maintainer at the email located in their [GitHub profile](https
 
 ## License
 
-This project is licensed under the **MIT license**. Feel free to edit and distribute as you like.
+This project is licensed under the **MIT license**. Feel free to edit and distribute as you like. 
+Please reference the scientific publication in addition to this repository if you found this work useful.  
 
 See [LICENSE](LICENSE) for more information.
 
