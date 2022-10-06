@@ -9,6 +9,8 @@ Chao, P., Lindemann, G. R., Hunter, A. H., & Shahani, A. J. (2022). Pseudo-4D vi
 
 While the analysis was done in Matlab, [Jupyter notebooks](https://jupyter.org/) are an excellent format to share equations, computational output, visualizations, and other multimedia resources, along with explanatory text in a single document. Furthermore, it is very convenient to share and read the notebook in Github. As such, all codes are set up in [Matlab-Jupyter](https://am111.readthedocs.io/en/latest/jmatlab_install.html) in an effort to create a clear and understandable workflow.
 
+The data can be obtained in XX
+
 ## Support
 
 Reach out to the maintainer at the email located in their [GitHub profile](https://github.com/pauliechao)
