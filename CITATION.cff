@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "CHAO"
+  given-names: "PAUL"
+  orcid: "https://orcid.org/0000-0002-0824-4507"
+title: "pseudo4D-analysis-guide"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-10-06
+url: "https://github.com/pauliechao/pseudo4D-analysis-guide"
